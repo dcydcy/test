@@ -5,3 +5,5 @@ function fun() {
 alert("ll");
 
 console.log("hh");
+
+console.log("ssss");
